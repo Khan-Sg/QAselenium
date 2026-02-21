@@ -3,7 +3,8 @@
 <suite name="All Test Suite">
    <test name="ActiTime-Automation">
        <classes>
-           <class name="com.sgtesting.actiTime.driverscript.DriverScript"></class>
+           <class name="com.sgtesting.DriverScript.DriverScript"/>
+
        </classes>
    </test>
 </suite>
